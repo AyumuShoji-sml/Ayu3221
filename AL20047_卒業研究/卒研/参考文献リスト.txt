@@ -1,0 +1,79 @@
+--------------------------------------------------------
+
+{1}[初学者向けProcessingプログラミング環境におけるコード補完機能の導入と効果]
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jstage.jst.go.jp/article/jsise/37/2/37_370212/_pdf/-char/ja
+Web IDEで自動補完機能を実装した。
+補完機能実装前と比べて括弧やカーリーブラケットの入力数が下がった。
+また，エラーのないfor文のスペルニットを簡単に挿入できることで記述ミスを減らせた．
+
+----------------------------------------------------------
+
+{2}[書き忘れたコードに対するコード補完について]
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2016&fname=j99-d_4_415&abst=
+書きかけのコードの途中に書き忘れが発生する頻度の調査．
+また，書き忘れたコードほあkンも補完対象にすることで補完の機会がどの程度向上するのか．
+
+----------------------------------------------------------
+
+{3}[機械学習手法を用いた動的型付け言語のコード補完に向けて]
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static.csg.ci.i.u-tokyo.ac.jp/papers/19/matsunaga-jssst2019.pdf
+メソッドチェイン上のメソッド列を利用することによって次に現れるメソッドを予測し，
+より正確にメソッド補完を実現できるのではないか．
+
+----------------------------------------------------------
+
+{4}[ソースコードコーパスを利用したメソッド呼び出し文補完手法]
+file:///C:/Users/al20047/Downloads/IPSJ-SES2012011.pdf
+効率測プログラムを作成するために既存のソースコードの再利用やライブラリを活用して
+開発を行う．そこでメソッド呼びだし文を補完する手法について提案する．
+
+---------------------------------------------------------
+
+{5}[The Definition of Standard ML (Revised)]
+StandardML
+
+--------------------------------------------------------
+
+{6}[Standard ML に対する構文誤りを許すコード補完機能の実装]
+AL19023  佐藤直輝
+
+--------------------------------------------------------
+
+{7}[Language Server Protocol]
+https://microsoft.github.io/language-server-protocol/
+Language server
+補完候補を表示する
+
+--------------------------------------------------------
+
+{8}[ GNU Bison - The Yacc-compatible Parser Generator.]
+https://www.gnu.org/software/bison/manual/
+構文解析Bison
+
+--------------------------------------------------------
+
+{9}[ Flex - the GNU project.]
+http://gnu.ist.utl.pt/software/flex/flex.html
+Flex
+字句解析
+
+--------------------------------------------------------
+
+{10}[開発プロジェクトのドメインに特化したRoBERTaによるコード補完モデルの提案]
+file:///C:/Users/al20047/Downloads/SS2021-50(%E9%96%8B%E7%99%BA%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9FRoBERTa%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E8%A3%9C%E5%AE%8C%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%8F%90).pdf
+コード補完でトークン数が増えると急激に補完精度が低下する課題が報告されている．
+自然言語処理機械学習モデルの1つであるRoBERTaに対して，開発者のリポジトリの
+ドメインで構築されたデータセットで追加学習する手法を提案する．
+
+
+
+
+
+
+
+
+
+
+
+
+
