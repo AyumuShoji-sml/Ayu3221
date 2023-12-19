@@ -1,6 +1,6 @@
 --------------------------------------------------------
 
-{1}[初学者向けProcessingプログラミング環境におけるコード補完機能の導入と効果]
+/{1}[初学者向けProcessingプログラミング環境におけるコード補完機能の導入と効果]
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jstage.jst.go.jp/article/jsise/37/2/37_370212/_pdf/-char/ja
 Web IDEで自動補完機能を実装した。
 補完機能実装前と比べて括弧やカーリーブラケットの入力数が下がった。
@@ -29,7 +29,7 @@ file:///C:/Users/al20047/Downloads/IPSJ-SES2012011.pdf
 
 ---------------------------------------------------------
 
-{5}[The Definition of Standard ML (Revised)]
+/{5}[The Definition of Standard ML (Revised)]
 StandardML
 
 --------------------------------------------------------
@@ -39,20 +39,20 @@ AL19023  佐藤直輝
 
 --------------------------------------------------------
 
-{7}[Language Server Protocol]
+/{7}[Language Server Protocol]
 https://microsoft.github.io/language-server-protocol/
 Language server
 補完候補を表示する
 
 --------------------------------------------------------
 
-{8}[ GNU Bison - The Yacc-compatible Parser Generator.]
+/{8}[ GNU Bison - The Yacc-compatible Parser Generator.]
 https://www.gnu.org/software/bison/manual/
 構文解析Bison
 
 --------------------------------------------------------
 
-{9}[ Flex - the GNU project.]
+/{9}[ Flex - the GNU project.]
 http://gnu.ist.utl.pt/software/flex/flex.html
 Flex
 字句解析
@@ -65,13 +65,17 @@ file:///C:/Users/al20047/Downloads/SS2021-50(%E9%96%8B%E7%99%BA%E3%83%97%E3%83%A
 自然言語処理機械学習モデルの1つであるRoBERTaに対して，開発者のリポジトリの
 ドメインで構築されたデータセットで追加学習する手法を提案する．
 
+----------------------------------------------------------
 
+{11}[ソフトウエア開発演習のための仮想環境の構築と今後の展望]
+file:///C:/Users/al20047/Downloads/2019%E7%B4%80%E8%A6%81%EF%BC%88%E4%B8%AD%E9%89%A2%EF%BC%89.pdf
 
+----------------------------------------------------------
 
+{12}[ Visual Studio Code - Code Editing. Redefined.]
+https://code.visualstudio.com/
 
-
-
-
+----------------------------------------------------------
 
 
 

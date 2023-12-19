@@ -1,20 +1,19 @@
 # Fdb version 4
-["bibtex thesis"] 1702441397 "thesis.aux" "thesis.bbl" "thesis" 1702441399 0
-  "./ref.bib" 1697161357 866 e3f1d003c6759816f7f34e4e691b6b1a ""
+["bibtex thesis"] 1702947253 "thesis.aux" "thesis.bbl" "thesis" 1702947263 0
+  "./ref.bib" 1702522067 3042 e13e0c94400ad3db7b0b422d1feaf695 ""
   "junsrt.bst" 0 -1 0 ""
-  "thesis.aux" 1702441398 3832 29b8e8bd6de8f18af2e615c189d44c37 "latex"
+  "thesis.aux" 1702947262 2664 6a6f3cb6c80c0be8d6a1c482184255cd "latex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["dvipdf"] 1702441398 "thesis.dvi" "thesis.pdf" "thesis" 1702441399 0
-  "thesis.dvi" 1702441398 16136 14a4a3b9d6d71ec9444b450dd834e148 "latex"
+["dvipdf"] 1702947263 "thesis.dvi" "thesis.pdf" "thesis" 1702947263 0
+  "thesis.dvi" 1702947262 12068 cb88dfa16318b2330be5830cb2f7d58c "latex"
   (generated)
   "thesis.pdf"
   (rewritten before read)
-["latex"] 1702441397 "thesis.tex" "thesis.dvi" "thesis" 1702441399 0
+["latex"] 1702947262 "thesis.tex" "thesis.dvi" "thesis" 1702947263 0
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1681795528 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1681795390 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1681796398 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/goth6.tfm" 1681796398 1196 977af188465e721f1f65facb66282510 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/goth8.tfm" 1681796398 1196 f76ab7ae43ed1dfe29b9e6ec2933fdb4 ""
@@ -78,11 +77,10 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681794879 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1681797066 7885084 51d9855006ca4653d7c5dd318cea460c ""
   "c:/texlive/2023/texmf.cnf" 1681796972 713 e69b156964470283e0530f5060668171 ""
-  "img/sample.png" 1697161357 51299 22693b74d228c730abfac6323ac5510b ""
-  "thesis.aux" 1702441398 3832 29b8e8bd6de8f18af2e615c189d44c37 "latex"
-  "thesis.bbl" 1702441397 406 e301f57c37086073db18997fea8a7fc3 "bibtex thesis"
-  "thesis.tex" 1702441397 7512 eacf6b8c922a5c0d5e1e92e6c34c3871 ""
-  "thesis.toc" 1702441398 1759 283162d98dd54f47c7fee7ef9de14274 "latex"
+  "thesis.aux" 1702947262 2664 6a6f3cb6c80c0be8d6a1c482184255cd "latex"
+  "thesis.bbl" 1702947253 1554 598685dde579c628b1b49e0dbed58e50 "bibtex thesis"
+  "thesis.tex" 1702947261 6697 04817ee56ef484c465cb4ba32d2d4af7 ""
+  "thesis.toc" 1702947262 955 8789a641f08603660b0317ee5aabaf48 "latex"
   (generated)
   "thesis.aux"
   "thesis.dvi"

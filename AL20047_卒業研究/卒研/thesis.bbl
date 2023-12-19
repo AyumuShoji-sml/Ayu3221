@@ -1,13 +1,44 @@
 \begin{thebibliography}{1}
 
-\bibitem{Ijiri18}
-Takashi Ijiri, Hideki Todo, Akira Hirabayashi, Kenji Kohiyama, and Yoshinori Dobashi.
-\newblock Digitization of natural objects with micro ct and photographs.
-\newblock {\em PLoS ONE}, Vol.~13, No.~4, 4 2018.
+\bibitem{chubati}
+中鉢欣秀.
+\newblock ソフトウエア開発演習のための仮想環境の構築と今後の展望.
+\newblock 産業技術大学院大学研究論文, Vol.~20, No.~13, pp. 93--98, 2019.
 
-\bibitem{TexLive}
-TeX~Users Group.
-\newblock Tex live. \url{https://www.tug.org/texlive/}.
-\newblock (2021年5月28日参照).
+\bibitem{StandardML}
+Robin Miler, Mads Tofte, Robert Harper, and David MacQueen.
+\newblock \textit{The Definition of Standard ML (Revised)}.
+\newblock 1997.
+
+\bibitem{eff}
+三浦元喜.
+\newblock 初学者向けprocessingプログラミング環境におけるコード補完機能の導入と実践.
+\newblock 教育システム情報学会誌, Vol.~37, No.~2, pp. 167--172, 2020.
+
+\bibitem{vscode}
+{Visual Studio Code - Code Editing. Redefined.}
+\newblock \url{https://code.visualstudio.com/}.
+
+\bibitem{sato}
+佐藤直輝.
+\newblock {Standard ML}に対する構文誤りを許すコード補完機能の実装.
+\newblock 芝浦工業大学情報工学科卒業論文, 2022年度.
+
+\bibitem{fjei}
+福本大介, 平尾俊貴, 藤原賢二, 飯田元.
+\newblock 開発プロジェクトのドメインに特化したrobertaによるコード補完モデルの提案.
+\newblock 電子情報通信学技報, Vol. 121, No. 416, pp. 49--53, 2022.
+
+\bibitem{flex}
+{Flex - the GNU project}.
+\newblock \url{http://gnu.ist.utl.pt/software/flex/flex.html}.
+
+\bibitem{bison}
+{GNU Bison - The Yacc-compatible Parser Generator}.
+\newblock \url{https://www.gnu.org/software/bison/manual/}.
+
+\bibitem{lsp}
+{Language Server Protocol}.
+\newblock \url{https://microsoft.github.io/language-server-protocol/}.
 
 \end{thebibliography}
