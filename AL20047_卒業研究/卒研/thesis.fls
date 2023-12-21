@@ -296,6 +296,14 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/goth8.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/goth6.tfm
 OUTPUT thesis.toc
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT ./img/SampleComplete.png
+INPUT ./img/SampleComplete.png
+INPUT img/SampleComplete.png
+INPUT extractbb -B cropbox -O img/SampleComplete.png
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 INPUT ./thesis.bbl
 INPUT thesis.bbl
 INPUT ./thesis.bbl
