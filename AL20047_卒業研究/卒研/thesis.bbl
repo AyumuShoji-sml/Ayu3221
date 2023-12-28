@@ -1,14 +1,24 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{useIDE}
 Gail Murphy and Mik Kersten.
-\newblock How are java software developers using the eclipse ide?
+\newblock How are {J}ava software developers using the {E}clipse {IDE}?
 \newblock {\em IEEE Software}, Vol.~23, No.~4, pp. 76--83, 2006.
 
 \bibitem{eff}
 三浦元喜.
 \newblock 初学者向けprocessingプログラミング環境におけるコード補完機能の導入と実践.
 \newblock 教育システム情報学会誌, Vol.~37, No.~2, pp. 167--172, 2020.
+
+\bibitem{hos}
+石原知也, 肥後芳樹, 楠本真二.
+\newblock 書き忘れたコードに対するコード補完について.
+\newblock 電子情報通信学会論文誌, No.~4, pp. 415--427, 2016.
+
+\bibitem{SASANO2023102957}
+Isao Sasano and Kwanghoon Choi.
+\newblock A text-based syntax completion method using {LR} parsing and its evaluation.
+\newblock {\em Science of Computer Programming}, Vol. 228, p. 102957, 2023.
 
 \bibitem{StandardML}
 Robin Miler, Mads Tofte, Robert Harper, and David MacQueen.
@@ -23,11 +33,6 @@ Robin Miler, Mads Tofte, Robert Harper, and David MacQueen.
 \bibitem{vscode}
 {Visual Studio Code - Code Editing. Redefined.}
 \newblock \url{https://code.visualstudio.com/}.
-
-\bibitem{hos}
-石原知也, 肥後芳樹, 楠本真二.
-\newblock 書き忘れたコードに対するコード補完について.
-\newblock 電子情報通信学会論文誌, No.~4, pp. 415--427, 2016.
 
 \bibitem{flex}
 {Flex - the GNU project}.

@@ -79,6 +79,9 @@ https://code.visualstudio.com/
 {13}[How Are Java Software Developers Using the Eclipse IDE?]
 https://www.researchgate.net/publication/220093228_How_Are_Java_Software_Developers_Using_the_Eclipse_IDE
 
-
-
+---------------------------------------------------------------------
+{14}
+[Principled syntactic code completion using placeholders]
+[プレースホルダーを使用した原則的な構文コード補完]
+https://dl.acm.org/doi/10.1145/2997364.2997374
 

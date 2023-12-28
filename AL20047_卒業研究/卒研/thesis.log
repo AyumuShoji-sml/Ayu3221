@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.4.18)  21 DEC 2023 15:39
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.4.18)  27 DEC 2023 12:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,9 +206,9 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 ] [2]
 第 2 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 84.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 84.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 87.
 [3
 
 ] [4]
@@ -216,18 +216,18 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 File: img/SampleComplete.png Graphic file (type bmp)
 <img/SampleComplete.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 106--107
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 109--110
  [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 115.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 118.
 (c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 115.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 115.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 118.
  [5
 
 ]
@@ -242,40 +242,35 @@ LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
 第 6 章
 [8
 
-]
-第 7 章
-[9
-
-]
-第 8 章
-[10
-
-]
-第 9 章
-[11
-
-] [12
+] [9
 
 ] (./thesis.bbl
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 6.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 21.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 15.
+(Font)              No change on input line 25.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+Underfull \hbox (badness 5622) in paragraph at lines 34--36
+[]\OT1/cmr/m/n/12 Visual Stu-dio Code - Code Edit-ing. Re-de-fined.  $\OT1/cmtt/m/n/12 https : / / code .
+ []
+
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 []\OT1/cmr/m/n/12 Language Server Pro-to-col.  $\OT1/cmtt/m/n/12 https : / / microsoft . github . io /
  []
 
-) [13
-
-] (./thesis.aux) ) 
+) [11] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 2655 strings out of 476685
- 38742 string characters out of 5808308
+ 2656 strings out of 476685
+ 38760 string characters out of 5808308
  1847481 words of memory out of 5000000
- 23085 multiletter control sequences out of 15000+600000
+ 23086 multiletter control sequences out of 15000+600000
  531437 words of font info for 106 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 55i,8n,62p,1102b,310s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,8n,62p,1111b,310s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.dvi (15 pages, 17004 bytes).
+Output written on thesis.dvi (13 pages, 18360 bytes).

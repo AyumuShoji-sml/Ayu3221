@@ -6,10 +6,10 @@
 \contentsline {chapter}{\numberline {第3章}提案手法}{5}{}%
 \contentsline {chapter}{\numberline {第4章}実装}{6}{}%
 \contentsline {section}{\numberline {4.1}VSCode上での補完候補表示}{6}{}%
-\contentsline {chapter}{\numberline {第5章}字句解析}{7}{}%
-\contentsline {chapter}{\numberline {第6章}構文解析}{8}{}%
-\contentsline {chapter}{\numberline {第7章}補完候補の取得}{9}{}%
-\contentsline {chapter}{\numberline {第8章}考察}{10}{}%
-\contentsline {chapter}{\numberline {第9章}まとめと今後の課題}{11}{}%
-\contentsline {chapter}{謝辞}{12}{}%
-\contentsline {chapter}{参考文献}{13}{}%
+\contentsline {section}{\numberline {4.2}字句解析}{6}{}%
+\contentsline {section}{\numberline {4.3}構文解析}{6}{}%
+\contentsline {section}{\numberline {4.4}補完候補の取得}{6}{}%
+\contentsline {chapter}{\numberline {第5章}考察}{7}{}%
+\contentsline {chapter}{\numberline {第6章}まとめと今後の課題}{8}{}%
+\contentsline {chapter}{謝辞}{9}{}%
+\contentsline {chapter}{参考文献}{10}{}%

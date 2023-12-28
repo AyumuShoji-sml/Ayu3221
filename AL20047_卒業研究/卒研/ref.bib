@@ -6,13 +6,28 @@
 
 @article{useIDE,
   author          = {Murphy, Gail and Kersten, Mik},
-  title           = {How Are Java Software Developers Using the Eclipse IDE?},
+  title           = {How Are {J}ava Software Developers Using the {E}clipse {IDE}?},
   number          = {4},
   volume          = {23},
   pages           = {76-83},
   journal         = {IEEE Software},
   year            = {2006},
 }
+
+@article{SASANO2023102957,
+title = {A text-based syntax completion method using {LR} parsing and its evaluation},
+journal = {Science of Computer Programming},
+volume = {228},
+pages = {102957},
+year = {2023},
+issn = {0167-6423},
+doi = {https://doi.org/10.1016/j.scico.2023.102957},
+url = {https://www.sciencedirect.com/science/article/pii/S0167642323000394},
+author = {Isao Sasano and Kwanghoon Choi},
+keywords = {Syntax completion, LR parsing, Sentential forms, Reduction, Integrated development environments},
+abstract = {This paper presents a text-based syntax completion method that uses an LR parser. We propose formal definitions of candidate text to be completed based on the sentential forms. Moreover, we design basic algorithms for computing candidate texts through reductions in the LR parsing. This is unlike most existing methods, wherein the definition of candidates that are intended to be generated are given informally. In addition, this is unlike grammar transformation approaches that use LR parsers and is a currently burdensome task. The proposed method allows LR parsers to be adopted without modification and a syntax completion system to be built without incurring efforts. For practical purposes, we extended the basic algorithms using a new definition of refined candidates and a new strategy. The extended algorithms can compute more useful candidates for realistic programming language grammars than those of existing ones; Further, we implemented the algorithms on an Emacs server to demonstrate the feasibility of their application. We evaluated the extended algorithm with three real-world programming languages, Small Basic, C, and Haskell. The extended algorithm computes half of all candidates in less than or equal to 0.2 seconds and 89.2% in approximately one second in the evaluation while computing the remaining candidates took a long time. We discuss its evaluation in detail.}
+}
+
 
 @misc{bison,
   howpublished = {\url{https://www.gnu.org/software/bison/manual/}},
