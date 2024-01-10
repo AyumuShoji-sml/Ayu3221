@@ -1,0 +1,6 @@
+out/*
+lex.yy.c
+y.tab.c
+y.tab.h
+node_modules
+client/server

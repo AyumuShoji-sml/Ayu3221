@@ -1,0 +1,17 @@
+{
+  "name": "sml-lsp-server",
+  "version": "1.0.0",
+  "description": "Standard ML Language Server",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "diff": "^5.1.0",
+    "vscode-languageserver": "^7.0.0",
+    "vscode-languageserver-textdocument": "^1.0.4"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/diff": "^5.0.2"
+  }
+}

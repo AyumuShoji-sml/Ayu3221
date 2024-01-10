@@ -1,0 +1,91 @@
+{
+	"tag":"START",
+	"exp":{
+		"tag":"EXP1",
+		"appexp":{
+			"tag":"APPEXP1",
+			"atexp":{
+				"tag":"ATEXP8",
+				"dec":{
+					"tag":"DEC300",
+					"id":"xy",
+					"patset":{
+						"tag":"PATSET",
+						"id":"xx",
+						"pat":"{
+							"tag":"PAT",
+							"id":"yy"
+							}}},
+							"error":"NULL"}}}}
+
+
+
+start
+: exp
+{
+  result = malloc(sizeof(result) * (strlen($1)+100));
+  sprintf(result, "{\"tag\":\"START\",\"exp\":%s}", $1);
+  free($1);
+}
+
+exp
+: appexp
+{
+  char *buf;
+  buf = malloc(sizeof(char) * (strlen($1)+100));
+  sprintf(buf, "{\"tag\":\"EXP1\",\"appexp\":%s}", $1);
+  free($1);
+  $$ = buf;
+}
+
+appexp
+: atexp
+{
+  char *buf;
+  buf = malloc(sizeof(char) * (strlen($1)+100));
+  sprintf(buf, "{\"tag\":\"APPEXP1\",\"atexp\":%s}", $1);
+  free($1);
+  $$ = buf;
+}
+
+atexp
+| LET dec error
+{
+  char *buf;
+  buf = malloc(sizeof(char) * (strlen($2)+100));
+  sprintf(buf, "{\"tag\":\"ATEXP8\",\"dec\":%s,\"error\":\"NULL\"}", $2);
+  free($2);
+  $$ = buf;
+}
+
+dec
+| FUN ID  patset
+{
+  char *buf;
+  buf = malloc(sizeof(char) * (strlen($2)+strlen($3)+100));
+  sprintf(buf, "{\"tag\":\"DEC300\",\"id\":\"%s\",\"patset\":[%s]}", $2, $3);
+  free($2);
+  free($3);
+  $$ = buf;
+} 
+
+patset
+: ID ',' pat
+{
+  char *buf;
+  buf = malloc(sizeof(char) * (strlen($1)+strlen($3)+100));
+  sprintf(buf, "{\"tag\":\"PATSET1\",\"pat1\":\"%s\"},%s", $1, $3);
+  free($1);
+  free($3);
+  $$ = buf;
+}
+
+pat
+: ID
+{
+  char *buf;
+  buf = malloc(sizeof(char) * (strlen($1)+100));
+  sprintf(buf, "{\"tag\":\"PATSET2\",\"pat2\":\"%s\"}", $1);
+  free($1);
+  $$ = buf;
+}
